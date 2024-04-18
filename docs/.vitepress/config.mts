@@ -8,13 +8,13 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '文章', link: '/article' }
+      { text: '为思考点赞', link: '/article' }
     ],
     sidebar: [
       {
-        text: '文章',
+        text: '',
         items: [
-          { text: '示例', link: '/article' },
+          { text: 'No.1,好久不见', link: '/article' },
         ]
       }
     ],

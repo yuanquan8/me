@@ -35,7 +35,7 @@ import {
   watchEffect
 } from "./chunk-5CH6667N.js";
 
-// node_modules/.pnpm/vitepress@1.1.0/node_modules/vitepress/lib/vue-demi.mjs
+// node_modules/.pnpm/vitepress@1.1.3/node_modules/vitepress/lib/vue-demi.mjs
 var isVue2 = false;
 var isVue3 = true;
 function set(target, key, val) {
@@ -9085,4 +9085,4 @@ vitepress/lib/vue-demi.mjs:
    * @license MIT
    *)
 */
-//# sourceMappingURL=chunk-4I5QOP2H.js.map
+//# sourceMappingURL=chunk-HH5QQUP7.js.map

@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  # name: "Dada."
-  text: "你好呀,好久不见"
-  tagline: “生活不是等待风暴过去，而是学会在雨中跳舞。” - 维维安·格林
+  name: "你好呀 !"
+  text: "好久不见 ~"
+  tagline: “生活不是等待风暴过去，而是学会在雨中跳舞。” <p style="font-size:16px" align="right"> - 维维安·格林</p>
   image:
     src: /home.webp
     alt: aaa
@@ -18,11 +18,11 @@ hero:
   #     link: /api-examples
 
 features:
-  - title: 我的作品
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 我的文章
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 我的随笔
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: <p align="center">我的作品</p>
+    details: 
+  - title: <p align="center">技术分享</p>
+    details:
+  - title: <p align="center">思考万岁</p>
+    details: 
 ---
 
