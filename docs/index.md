@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Dada."
+  # name: "Dada."
   text: "你好呀,好久不见"
   tagline: “生活不是等待风暴过去，而是学会在雨中跳舞。” - 维维安·格林
   image:
