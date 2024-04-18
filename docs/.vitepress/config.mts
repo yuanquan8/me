@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Dada.",
+  title: "主页",
   description: "你好呀,好久不见",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -14,12 +14,12 @@ export default defineConfig({
       {
         text: '文章',
         items: [
-          { text: '示例', link: '/markdown-examples' },
+          { text: '示例', link: '/article' },
         ]
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      // { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
   }
 })
