@@ -15,6 +15,7 @@ export default defineConfig({
         text: '',
         items: [
           { text: 'No.1,好久不见', link: '/article' },
+          { text: 'No.1,短语-1', link: '/l-1' },
         ]
       }
     ],
